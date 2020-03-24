@@ -13,13 +13,13 @@ setup(
         'dataset',
         'main',
         ],
-    packages=[
-        'scipy',
-        'numpy',
-        'setuppy-generator',
-        'python-telegram-bot',
-        'scikit-learn',
-        'python-telegram-bot'
-        'nltk',
-        ],
+    # libraries=[
+    #     'scipy',
+    #     'numpy',
+    #     'setuppy-generator',
+    #     'python-telegram-bot',
+    #     'scikit-learn',
+    #     'python-telegram-bot'
+    #     'nltk',
+    #     ],
 )
