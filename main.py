@@ -20,7 +20,7 @@ def generate(update, context):
 
 def main():
     """Start bot"""
-    updater = Updater("paste ur bot token", use_context=True)
+    updater = Updater("1128715669:AAGPuMyClhPUeYggIcgBNuoskImCLdIClZY", use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", start))
     dp.add_handler(CommandHandler("help", help))
@@ -29,6 +29,8 @@ def main():
     updater.start_polling()
     updater.idle()
 
+
+main()
 
 # if __name__ == '__main__':
 #     main()
