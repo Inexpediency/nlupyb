@@ -22,5 +22,7 @@ setup(
     #     'python-telegram-bot'
     #     'nltk',
     #     ],
-    scripts='main'
+    entry_points={
+        'console_scripts':  ['main = main: main'],
+    },
 )
