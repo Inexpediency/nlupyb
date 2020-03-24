@@ -22,5 +22,5 @@ setup(
     #     'python-telegram-bot'
     #     'nltk',
     #     ],
-    scripts='/main.py'
+    scripts='main'
 )
