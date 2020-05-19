@@ -13,7 +13,7 @@
 
 <br>
 
-# Install
+## Install
 -   download [Python](https://www.python.org/ftp/python)
 -   clone this repo: `git clone https://github.com/Ythosa/py-bot-with-nlu`
 -   install dependences 
@@ -24,7 +24,7 @@
 
 <br>
 
-# Description
+## Description
 -    Telegram bot with natural language understanding and machine learning
 -    Used telegram-python-bot lib to work with telegram API, scikit-learn lib to NLU
 -    Odds matched but you can try to do better
