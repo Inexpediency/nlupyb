@@ -1,16 +1,17 @@
+<br>
+
 <h1 align="center">nlupyb</h1>
 <div align="center">
   
----
-
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/ythosa)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://vk.com/ythosa)
     
----
 
 </div>
+
+<br>
 
 # Install
 -   download [Python](https://www.python.org/ftp/python)
@@ -21,7 +22,7 @@
      * scikit-learn `pip install scikit-learn`
 -   run: `main.py`
 
----
+<br>
 
 # Description
 -    Telegram bot with natural language understanding and machine learning
